@@ -1,0 +1,5 @@
+https://github.com/JuliaRFarias/aula_02_04_2026
+
+git clone https://github.com/JuliaRFarias/aula_02_04_2026
+
+git status
