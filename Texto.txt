@@ -3,3 +3,11 @@ https://github.com/JuliaRFarias/aula_02_04_2026
 git clone https://github.com/JuliaRFarias/aula_02_04_2026
 
 git status
+
+git add .
+
+git status 
+
+git commit -m "Alterando o arquivo texto 
+
+git push 
